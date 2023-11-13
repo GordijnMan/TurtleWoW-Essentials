@@ -90,7 +90,7 @@ Many of these addons vastly enhance user experience and makes the game far more 
 
 ## Dependencies
 
-* You will need Git to use this project, because it pulls submodules (the AddOns).
+* You will need [Git](https://git-scm.com/) to use this project, because it pulls [submodules](./.gitmodules).
 * [AtlasLoot](https://github.com/Lexiebean/AtlasLoot.git) and [AtlasQuest](https://github.com/Nonameby/AtlasQuest.git) require [Atlas](https://github.com/Nonameby/Atlas.git).
   - These AddOns are recommended to disable using [AddOnOrganizer](https://github.com/Monteo/AddOnOrganizer.git) until higher levels to save AddOn memory.
 * [aux_merchant_prices](https://github.com/shirsig/aux_merchant_prices.git) requires [aux-addon](https://github.com/shirsig/aux-addon-vanilla.git).
