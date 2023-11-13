@@ -1,0 +1,99 @@
+[submodule "AddOns/pfQuest"]
+	path = AddOns/pfQuest
+	url = https://github.com/shagu/pfQuest.git
+[submodule "AddOns/pfQuest-turtle"]
+	path = AddOns/pfQuest-turtle
+	url = https://github.com/shagu/pfQuest-turtle.git
+[submodule "AddOns/ShaguCombat"]
+	path = AddOns/ShaguCombat
+	url = https://github.com/shagu/ShaguCombat.git
+[submodule "AddOns/ShaguDPS"]
+	path = AddOns/ShaguDPS
+	url = https://github.com/shagu/ShaguDPS.git
+[submodule "AddOns/ShaguError"]
+	path = AddOns/ShaguError
+	url = https://github.com/shagu/ShaguError.git
+[submodule "AddOns/ShaguInventory"]
+	path = AddOns/ShaguInventory
+	url = https://github.com/shagu/ShaguInventory.git
+[submodule "AddOns/ShaguPlates"]
+	path = AddOns/ShaguPlates
+	url = https://github.com/shagu/ShaguPlates.git
+[submodule "AddOns/ShaguTweaks"]
+	path = AddOns/ShaguTweaks
+	url = https://github.com/shagu/ShaguTweaks.git
+[submodule "AddOns/ShaguWidget"]
+	path = AddOns/ShaguWidget
+	url = https://github.com/shagu/ShaguWidget.git
+[submodule "AddOns/AddOnOrganizer"]
+	path = AddOns/AddOnOrganizer
+	url = https://github.com/Monteo/AddOnOrganizer.git
+[submodule "AddOns/Atlas"]
+	path = AddOns/Atlas
+	url = https://github.com/Nonameby/Atlas.git
+[submodule "AddOns/AtlasLoot"]
+	path = AddOns/AtlasLoot
+	url = https://github.com/Lexiebean/AtlasLoot.git
+[submodule "AddOns/AtlasQuest"]
+	path = AddOns/AtlasQuest
+	url = https://github.com/Nonameby/AtlasQuest.git
+[submodule "AddOns/aux-addon-vanilla"]
+	path = AddOns/aux-addon-vanilla
+	url = https://github.com/shirsig/aux-addon-vanilla.git
+[submodule "AddOns/aux_merchant_prices"]
+	path = AddOns/aux_merchant_prices
+	url = https://github.com/shirsig/aux_merchant_prices.git
+[submodule "AddOns/BetterCharacterStats"]
+	path = AddOns/BetterCharacterStats
+	url = https://github.com/Lexiebean/BetterCharacterStats.git
+[submodule "AddOns/Cleanup-vanilla"]
+	path = AddOns/Cleanup-vanilla
+	url = https://github.com/shirsig/Cleanup-vanilla.git
+[submodule "AddOns/CRF"]
+	path = AddOns/CRF
+	url = https://github.com/luskanek/CRF.git
+[submodule "AddOns/FlightMap"]
+	path = AddOns/FlightMap
+	url = https://github.com/GryllsAddons/FlightMap.git
+[submodule "AddOns/GryllsSwingTimer"]
+	path = AddOns/GryllsSwingTimer
+	url = https://github.com/GryllsAddons/GryllsSwingTimer.git
+[submodule "AddOns/Mail"]
+	path = AddOns/Mail
+	url = https://github.com/EinBaum/Mail.git
+[submodule "AddOns/Vanilla_MikScrollingBattleText"]
+	path = AddOns/Vanilla_MikScrollingBattleText
+	url = https://github.com/AtheneGenesis/Vanilla_MikScrollingBattleText.git
+[submodule "AddOns/MinimapButtonFrame-vanilla"]
+	path = AddOns/MinimapButtonFrame-vanilla
+	url = https://github.com/laytya/MinimapButtonFrame-vanilla.git
+[submodule "AddOns/MobsToLevel"]
+	path = AddOns/MobsToLevel
+	url = https://github.com/idontbyte/MobsToLevel.git
+[submodule "AddOns/PowerAuras-vanilla"]
+	path = AddOns/PowerAuras-vanilla
+	url = https://github.com/laytya/PowerAuras-vanilla.git
+[submodule "AddOns/RestBar"]
+	path = AddOns/RestBar
+	url = https://github.com/Steelbash/RestBar.git
+[submodule "AddOns/SortBags"]
+	path = AddOns/SortBags
+	url = https://github.com/refaim/SortBags.git
+[submodule "AddOns/SpartanUI_SpinCam"]
+	path = AddOns/SpartanUI_SpinCam
+	url = https://github.com/Daribon/SpartanUI_SpinCam.git
+[submodule "AddOns/Spy-vanilla"]
+	path = AddOns/Spy-vanilla
+	url = https://github.com/laytya/Spy-vanilla.git
+[submodule "AddOns/TargetFrameBuff"]
+	path = AddOns/TargetFrameBuff
+	url = https://github.com/ZiiMs/TargetFrameBuff.git
+[submodule "AddOns/TurtleSnacks"]
+	path = AddOns/TurtleSnacks
+	url = https://github.com/McPewPew/TurtleSnacks.git
+[submodule "AddOns/TWThreat"]
+	path = AddOns/TWThreat
+	url = https://github.com/CosminPOP/TWThreat.git
+[submodule "AddOns/WorldBuffSoundAlert"]
+	path = AddOns/WorldBuffSoundAlert
+	url = https://github.com/Bergador/WorldBuffSoundAlert.git
