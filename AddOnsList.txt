@@ -1,0 +1,38 @@
+## Shagu AddOns: 9
+ - pfQuest
+ - pfQuest-turtle
+ - ShaguCombat
+ - ShaguDPS
+ - ShaguError
+ - ShaguInventory
+ - ShaguPlates
+ - ShaguTweaks
+ - ShaguWidget
+
+## Vanilla AddOns: 24
+ - AddOnOrganizer
+ - Atlas
+ - AtlasLoot
+ - AtlasQuest
+ - aux-addon-vanilla
+ - aux_merchant_prices
+ - BetterCharacterStats
+ - Cleanup-vanilla
+ - CRF
+ - FlightMap
+ - GryllsSwingTimer
+ - Mail
+ - MinimapButtonFrame-vanilla
+ - MobsToLevel
+ - PowerAuras-vanilla
+ - RestBar
+ - SortBags
+ - SpartanUI_SpinCam
+ - Spy-vanilla
+ - TargetFrameBuff
+ - TurtleSnacks
+ - TWThreat
+ - Vanilla_MikScrollingBattleText
+ - WorldBuffSoundAlert
+
+### TOTAL: 33 (190M)

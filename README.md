@@ -3,6 +3,8 @@ A collection of vital TurtleWoW addons to enhance the player's experience.
 
 The point of this project is to automatically download updated versions of the selected addons. All AddOns are made specifically for TurtleWoW.
 
+## AddOns
+
 **Shagu AddOns: 9**
 
 These are by far the most minimalist and stable addons.
@@ -96,7 +98,7 @@ Many of these addons vastly enhance user experience and makes the game far more 
  24. [WorldBuffSoundAlert](https://github.com/Bergador/WorldBuffSoundAlert.git)
     - Sounds an alert when a world buff is detected.
 
-TOTAL: 35
+**TOTAL: 35** (± 200MB)
 
 ## Dependencies
 * [AtlasLoot](https://github.com/Lexiebean/AtlasLoot.git) and [AtlasQuest](https://github.com/Nonameby/AtlasQuest.git) require [Atlas](https://github.com/Nonameby/Atlas.git).
@@ -121,7 +123,7 @@ TOTAL: 35
     - Chill out and chat with other players until your rested is 100%.
     - When you hear the World Buff Alert, you are ready to level!
 
-### Special thanks to:
+## Special thanks to:
  - [Grylls](https://github.com/GryllsAddons)
  - [Laytya](https://github.com/laytya)
  - [Lexiebean](https://github.com/Lexiebean)
