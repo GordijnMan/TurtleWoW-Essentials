@@ -62,8 +62,7 @@ Many of these addons vastly enhance user experience and makes the game far more 
     - Grabs all minimap buttons and collects them in inside a customizable frame.
     - Requires [TurtleSnacks](https://github.com/McPewPew/TurtleSnacks.git) to work for TurtleWoW.
     - Comes with `MinimapButtonFrameFu` plugin, so the directory must be fixed for the AddOn to load.
-15. [MobsToLevel](https://github.com/idontbyte/MobsToLevel.git)
-    - Simple AddOn to calculate the next level based on the last killed target.
+15. [MobsToLevel](https://github.com/idontbyte/MobsToLevel.git) - Simple AddOn to calculate the next level based on the last killed target.
 16. [PowerAuras](https://github.com/laytya/PowerAuras-vanilla.git)
     - Useful AddOn which displays your most important buffs or cooldowns.
     - Comes with a nested directory that must be copied into the AddOn directory.
@@ -74,15 +73,13 @@ Many of these addons vastly enhance user experience and makes the game far more 
 18. [SortBags](https://github.com/refaim/SortBags.git)
     - Dependency for [Cleanup](https://github.com/shirsig/Cleanup-vanilla.git).
     - Allows to configure Left or Right sorting.
-19. [SpartanUI_SpinCam](https://github.com/Daribon/SpartanUI_SpinCam.git)
-    - Makes the camera spin around you when you are detected as AFK.
+19. [SpartanUI_SpinCam](https://github.com/Daribon/SpartanUI_SpinCam.git) - Makes the camera spin around you when you are detected as AFK.
 20. [Spy](https://github.com/laytya/Spy-vanilla.git)
     - Essential AddOn for PvP enabled players.
     - Tracks PvP players with high kill counts of the opposing faction.
     - Feature to add players to kill lists and trigger sound alerts when enemy players are near.
     - Has yet another nested directory.
-21. [TargetFrameBuff](https://github.com/ZiiMs/TargetFrameBuff.git)
-    - Extends visible (de)buffs on TurtleWoW unit frames to 16.
+21. [TargetFrameBuff](https://github.com/ZiiMs/TargetFrameBuff.git) - Extends visible (de)buffs on TurtleWoW unit frames to 16.
 22. [TurtleSnacks](https://github.com/McPewPew/TurtleSnacks.git)
     - Dependency for [MinimapButtonFrame](https://github.com/laytya/MinimapButtonFrame-vanilla.git).
     - Allows the collection of TurtleWoW minimap buttons.
