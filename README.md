@@ -1,8 +1,8 @@
 # TurtleWoW-Essentials
 
-A collection of essential TurtleWoW addons to enhance the player's experience.
+A collection of essential TurtleWoW AddOns to enhance the player's experience.
 
-The point of this project is to automatically download updated versions of the selected addons. All AddOns are made specifically for TurtleWoW.
+The point of this project is to automatically download updated versions of the selected AddOns. All AddOns are made specifically for TurtleWoW.
 
 Use `git submodule update --remote --merge` to update all AddOns.
 
@@ -10,7 +10,7 @@ Use `git submodule update --remote --merge` to update all AddOns.
 
 ### Shagu AddOns: 9
 
-These are by far the most minimalist and stable addons.
+These are by far the most minimalist and stable AddOns.
 They are not Ace2 and they usually work without much configuration (except ShaguWidget).
 They are some of the best you can find for TurtleWoW.
 
@@ -34,7 +34,7 @@ They are some of the best you can find for TurtleWoW.
 
 ### Vanilla AddOns: 24
 
-Many of these addons vastly enhance user experience and makes the game far more enjoyable to play.
+Many of these AddOns vastly enhance user experience and makes the game far more enjoyable to play.
 
 1. [AddOnOrganizer](https://github.com/Monteo/AddOnOrganizer.git) - Essential AddOn for managing your other AddOns.
 2. [Atlas](https://github.com/Nonameby/Atlas.git)
