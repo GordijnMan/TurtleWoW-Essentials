@@ -1,6 +1,6 @@
 # TurtleWoW-Essentials
 
-A collection of vital TurtleWoW addons to enhance the player's experience.
+A collection of essential TurtleWoW addons to enhance the player's experience.
 
 The point of this project is to automatically download updated versions of the selected addons. All AddOns are made specifically for TurtleWoW.
 
