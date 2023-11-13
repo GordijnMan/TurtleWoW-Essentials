@@ -4,6 +4,8 @@ A collection of vital TurtleWoW addons to enhance the player's experience.
 
 The point of this project is to automatically download updated versions of the selected addons. All AddOns are made specifically for TurtleWoW.
 
+Use `git submodule update --remote --merge` to update all AddOns.
+
 ## AddOns
 
 ### Shagu AddOns: 9
