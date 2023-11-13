@@ -86,7 +86,7 @@ Many of these addons vastly enhance user experience and makes the game far more 
 23. [TWThreat](https://github.com/CosminPOP/TWThreat.git) - Useful threatmeter for dungeons.
 24. [WorldBuffSoundAlert](https://github.com/Bergador/WorldBuffSoundAlert.git) - Sounds an alert when a world buff is detected.
 
-**TOTAL: 35** (± 200MB)
+**TOTAL: 33** (± 200MB)
 
 ## Dependencies
 
