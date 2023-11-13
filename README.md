@@ -21,49 +21,39 @@ They are some of the best you can find for TurtleWoW.
 3. [ShaguCombat](https://github.com/shagu/ShaguCombat.git)
    - Red frame around your screen that shows when you are in combat.
    - Essential for Hardcore players.
-4. [ShaguDPS](https://github.com/shagu/ShaguDPS.git)
-   - Simple damage table, essential for testing your gear.
+4. [ShaguDPS](https://github.com/shagu/ShaguDPS.git) - Simple damage table, essential for testing your gear.
 5. [ShaguError](https://github.com/shagu/ShaguError.git)
    - AddOn that displays errors for Shagu AddOns.
    - Essential for troubleshooting your Shagu AddOns.
-6. [ShaguInventory](https://github.com/shagu/ShaguInventory.git)
-   - Shows if you already have an item on other characters.
+6. [ShaguInventory](https://github.com/shagu/ShaguInventory.git) - Shows if you already have an item on other characters.
 7. [ShaguPlates](https://github.com/shagu/ShaguPlates.git)
    - Highly customizable in-game nameplates.
    - Essential for displaying debuffs on mobs.
-8. [ShaguTweaks](https://github.com/shagu/ShaguTweaks.git)
-   - Quality of life improvements to the TurtleWoW UI customizations.
-9. [ShaguWidget](https://github.com/shagu/ShaguWidget.git)
-   - Highly customizable widget which can show detailed map location, AddOn memory, lag (ping), and much more.
+8. [ShaguTweaks](https://github.com/shagu/ShaguTweaks.git) - Quality of life improvements to the TurtleWoW UI customizations.
+9. [ShaguWidget](https://github.com/shagu/ShaguWidget.git) - Highly customizable widget which can show detailed map location, AddOn memory, lag (ping), and much more.
 
 ### Vanilla AddOns: 24
 
 Many of these addons vastly enhance user experience and makes the game far more enjoyable to play.
 
-1. [AddOnOrganizer](https://github.com/Monteo/AddOnOrganizer.git)
-   - Essential AddOn for managing your other AddOns.
+1. [AddOnOrganizer](https://github.com/Monteo/AddOnOrganizer.git) - Essential AddOn for managing your other AddOns.
 2. [Atlas](https://github.com/Nonameby/Atlas.git)
 3. [AtlasLoot](https://github.com/Lexiebean/AtlasLoot.git)
-4. [AtlasQuest](https://github.com/Nonameby/AtlasQuest.git)
-   - Together, Atlas, AtlasLoot and AtlasQuest give the player access to loot tables for instances and dungeon quests.
+4. [AtlasQuest](https://github.com/Nonameby/AtlasQuest.git) - Together, Atlas, AtlasLoot and AtlasQuest give the player access to loot tables for instances and dungeon quests.
 5. [aux-addon](https://github.com/shirsig/aux-addon-vanilla.git)
 6. [aux_merchant_prices](https://github.com/shirsig/aux_merchant_prices.git)
    - Aux with marchant prices tooltips.
    - Gives the player an auction house overlay and makes it extremely easy to compare prices.
-7. [BetterCharacterStats](https://github.com/Lexiebean/BetterCharacterStats.git)
-   - Essential AddOn which displays more detailed character stat information.
-8. [Cleanup](https://github.com/shirsig/Cleanup-vanilla.git)
-   - Essential AddOn which sorts your default bags in a given direction.
-9. [CRF](https://github.com/luskanek/CRF.git)
-   - Essential AddOn which displays a raid overlay with buffs and debuffs on raid and party members.
+7. [BetterCharacterStats](https://github.com/Lexiebean/BetterCharacterStats.git) - Essential AddOn which displays more detailed character stat information.
+8. [Cleanup](https://github.com/shirsig/Cleanup-vanilla.git) - Essential AddOn which sorts your default bags in a given direction.
+9. [CRF](https://github.com/luskanek/CRF.git) - Essential AddOn which displays a raid overlay with buffs and debuffs on raid and party members.
 10. [FlightMap](https://github.com/GryllsAddons/FlightMap.git)
     - Very useful AddOn which displays flight timers and locations.
     - Especially recommended for new players.
 11. [GryllsSwingTimer](https://github.com/GryllsAddons/GryllsSwingTimer.git)
     - Minimalistic swing timer with sleek design and alternative themes.
     - Originally from [zUI](https://github.com/Ko0z/zUI.git).
-12. [Mail](https://github.com/EinBaum/Mail.git)
-    - AddOn which lets you open all your mail at once or send multiple items very quickly.
+12. [Mail](https://github.com/EinBaum/Mail.git) - AddOn which lets you open all your mail at once or send multiple items very quickly.
 13. [MikScrollingBattleText](https://github.com/AtheneGenesis/Vanilla_MikScrollingBattleText.git)
     - Complete damage and status text replacement.
     - Highly customizable quality of life improvement.
@@ -96,10 +86,8 @@ Many of these addons vastly enhance user experience and makes the game far more 
 22. [TurtleSnacks](https://github.com/McPewPew/TurtleSnacks.git)
     - Dependency for [MinimapButtonFrame](https://github.com/laytya/MinimapButtonFrame-vanilla.git).
     - Allows the collection of TurtleWoW minimap buttons.
-23. [TWThreat](https://github.com/CosminPOP/TWThreat.git)
-    - Useful threatmeter for dungeons.
-24. [WorldBuffSoundAlert](https://github.com/Bergador/WorldBuffSoundAlert.git)
-    - Sounds an alert when a world buff is detected.
+23. [TWThreat](https://github.com/CosminPOP/TWThreat.git) - Useful threatmeter for dungeons.
+24. [WorldBuffSoundAlert](https://github.com/Bergador/WorldBuffSoundAlert.git) - Sounds an alert when a world buff is detected.
 
 **TOTAL: 35** (± 200MB)
 
