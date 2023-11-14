@@ -1,18 +1,18 @@
 # TurtleWoW-Essentials
+A collection of essential TurtleWoW AddOns to enhance the player's experience.
+
 1. [Usage](#usage)
 2. [AddOns](#addons)
 3. [Dependencies](#dependencies)
 4. [Special Thanks](#special-thanks-to)
 
-A collection of essential TurtleWoW AddOns to enhance the player's experience.
+## Usage
 
 The point of this project is to automatically download updated versions of the selected AddOns. 
 All AddOns are made specifically tailored to TurtleWoW.
 Cloning 33 AddOns all at once is much faster than manually going through the [curated TurtleWoW AddOns list](https://turtle-wow.fandom.com/wiki/Addons).
 However, it may still take some time. 
 This is especially true for larger AddOns like [pfQuest](https://github.com/shagu/pfQuest.git) that have entire multilingual databases.
-
-## Usage
 
 * You will need [Git](https://git-scm.com/) to use this project.
 * It utilizes all listed AddOns by pulling them as [submodules](./.gitmodules).
