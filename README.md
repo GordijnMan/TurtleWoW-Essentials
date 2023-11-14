@@ -2,24 +2,39 @@
 
 A collection of essential TurtleWoW AddOns to enhance the player's experience.
 
-The point of this project is to automatically download updated versions of the selected AddOns. All AddOns are made specifically for TurtleWoW.
+The point of this project is to automatically download updated versions of the selected AddOns. 
+All AddOns are made specifically tailored to TurtleWoW.
+Cloning 33 AddOns all at once is much faster than manually going through the [curated TurtleWoW AddOns list](https://turtle-wow.fandom.com/wiki/Addons).
+However, it may still take some time. 
+This is especially true for larger AddOns like [pfQuest](https://github.com/shagu/pfQuest.git) that have entire multilingual databases.
 
-Use `git submodule update --remote --merge` to update all AddOns.
+* You will need [Git](https://git-scm.com/) to use this project.
+* It utilizes all listed AddOns by pulling them as [submodules](./.gitmodules).
+* **DISCLAIMER:** Some AddOns will be pulled in nested directories, contain multiple plugins or have `-vanilla` directory postfixes.
+
+## Usage
+
+Use:
+* `git clone https://github.com/GordijnMan/TurtleWoW-Essentials.git` to clone this repository without the AddOns.
+* `git submodule init` (inside the repository) to initialize the AddOn submodules.
+* `git submodule update` (inside the repository) to update all AddOns to their latest versions.
+
+Or, use:
+* `git clone https://github.com/GordijnMan/TurtleWoW-Essentials.git --recurse-submodules` to download updated versions of all AddOns instantly.
 
 ## AddOns
 
 ### Shagu AddOns: 9
 
-These are by far the most minimalist and stable AddOns.
-They are not Ace2 and they usually work without much configuration (except ShaguWidget).
-They are some of the best you can find for TurtleWoW.
+These are by far the most minimalist and stable AddOns for TurtleWoW.
+Most of Shagu's AddOns (except ShaguWidget) work out of the box, without much need for configuration.
 
 1. [pfQuest](https://github.com/shagu/pfQuest.git)
 2. [pfQuest-turtle](https://github.com/shagu/pfQuest-turtle.git)
    - Quest helper with TurtleWoW features.
    - Leveling without a quest helper is not recommended for new players.
 3. [ShaguCombat](https://github.com/shagu/ShaguCombat.git)
-   - Red frame around your screen that shows when you are in combat.
+   - Red glowing frame around your screen that shows when you are in combat.
    - Essential for Hardcore players.
 4. [ShaguDPS](https://github.com/shagu/ShaguDPS.git) - Simple damage table, essential for testing your gear.
 5. [ShaguError](https://github.com/shagu/ShaguError.git)
@@ -30,16 +45,18 @@ They are some of the best you can find for TurtleWoW.
    - Highly customizable in-game nameplates.
    - Essential for displaying debuffs on mobs.
 8. [ShaguTweaks](https://github.com/shagu/ShaguTweaks.git) - Quality of life improvements to the TurtleWoW UI customizations.
-9. [ShaguWidget](https://github.com/shagu/ShaguWidget.git) - Highly customizable widget which can show detailed map location, AddOn memory, lag (ping), and much more.
+9. [ShaguWidget](https://github.com/shagu/ShaguWidget.git)
+    - Highly customizable widget which can show detailed map location, AddOn memory, lag (ping), and much more.
+    - If you don't like tinkering, you can use [my ShaguWidget configuration](./ShaguWidget.cfg).
 
 ### Vanilla AddOns: 24
 
 Many of these AddOns vastly enhance user experience and makes the game far more enjoyable to play.
 
 1. [AddOnOrganizer](https://github.com/Monteo/AddOnOrganizer.git) - Essential AddOn for managing your other AddOns.
-2. [Atlas](https://github.com/Nonameby/Atlas.git)
-3. [AtlasLoot](https://github.com/Lexiebean/AtlasLoot.git)
-4. [AtlasQuest](https://github.com/Nonameby/AtlasQuest.git) - Together, Atlas, AtlasLoot and AtlasQuest give the player access to loot tables for instances and dungeon quests.
+2. [Atlas](https://github.com/Nonameby/Atlas.git) - Dungeon maps.
+3. [AtlasLoot](https://github.com/Lexiebean/AtlasLoot.git) - Dungeon loot tables.
+4. [AtlasQuest](https://github.com/Nonameby/AtlasQuest.git) - Dungeon quest helpers.
 5. [aux-addon](https://github.com/shirsig/aux-addon-vanilla.git)
 6. [aux_merchant_prices](https://github.com/shirsig/aux_merchant_prices.git)
    - Aux with marchant prices tooltips.
@@ -65,6 +82,7 @@ Many of these AddOns vastly enhance user experience and makes the game far more 
 15. [MobsToLevel](https://github.com/idontbyte/MobsToLevel.git) - Simple AddOn to calculate the next level based on the last killed target.
 16. [PowerAuras](https://github.com/laytya/PowerAuras-vanilla.git)
     - Useful AddOn which displays your most important buffs or cooldowns.
+    - The configuration will depend on your current class and available skills.
     - Comes with a nested directory that must be copied into the AddOn directory.
 17. [RestBar](https://github.com/Steelbash/RestBar.git)
     - Essential AddOn that provides a rested bar.
@@ -79,7 +97,9 @@ Many of these AddOns vastly enhance user experience and makes the game far more 
     - Tracks PvP players with high kill counts of the opposing faction.
     - Feature to add players to kill lists and trigger sound alerts when enemy players are near.
     - Has yet another nested directory.
-21. [TargetFrameBuff](https://github.com/ZiiMs/TargetFrameBuff.git) - Extends visible (de)buffs on TurtleWoW unit frames to 16.
+21. [TargetFrameBuff](https://github.com/ZiiMs/TargetFrameBuff.git)
+    - Extends visible (de)buffs on TurtleWoW unit frames to 16.
+    - This AddOn will be displayed as 'out-of-date'.
 22. [TurtleSnacks](https://github.com/McPewPew/TurtleSnacks.git)
     - Dependency for [MinimapButtonFrame](https://github.com/laytya/MinimapButtonFrame-vanilla.git).
     - Allows the collection of TurtleWoW minimap buttons.
@@ -90,24 +110,27 @@ Many of these AddOns vastly enhance user experience and makes the game far more 
 
 ## Dependencies
 
-* You will need [Git](https://git-scm.com/) to use this project, because it pulls [submodules](./.gitmodules).
 * [AtlasLoot](https://github.com/Lexiebean/AtlasLoot.git) and [AtlasQuest](https://github.com/Nonameby/AtlasQuest.git) require [Atlas](https://github.com/Nonameby/Atlas.git).
-  - These AddOns are recommended to disable using [AddOnOrganizer](https://github.com/Monteo/AddOnOrganizer.git) until higher levels to save AddOn memory.
+  - Together, Atlas, AtlasLoot and AtlasQuest give the player access to loot tables for instances and dungeon quests.
+  - These AddOns are more useful at later levels.
+  - I recommended to disable them at first using [AddOnOrganizer](https://github.com/Monteo/AddOnOrganizer.git) to save AddOn memory.
 * [aux_merchant_prices](https://github.com/shirsig/aux_merchant_prices.git) requires [aux-addon](https://github.com/shirsig/aux-addon-vanilla.git).
   - Never run a full scan, it is extremely time and resource consuming.
   - By the time you are finished scanning, the auction house will already look different.
-* `[MikScrollingBattleText](https://github.com/AtheneGenesis/Vanilla_MikScrollingBattleText.git) is very customizable and will need some configuration.
+* [Cleanup](https://github.com/shirsig/Cleanup-vanilla.git) requires [SortBags](https://github.com/refaim/SortBags.git) and will need to configure which direction to sort to (Left or Right).
+  - It also needs to configure the sorting button and may take some tinkering when setting up.
+* [MikScrollingBattleText](https://github.com/AtheneGenesis/Vanilla_MikScrollingBattleText.git) is very customizable and will need some configuration.
 * [MikScrollingBattleText](https://github.com/AtheneGenesis/Vanilla_MikScrollingBattleText.git), [PowerAuras](https://github.com/laytya/PowerAuras-vanilla.git), [RestBar](https://github.com/Steelbash/RestBar.git) and [Spy](https://github.com/laytya/Spy-vanilla.git) all have nested directories that will not work unless you extract the AddOn files.
   - Aux, Cleanup and MinimapButtonFrame also have a `-vanilla` postfix in the directory name with must be removed.
 * [MinimapButtonFrame](https://github.com/laytya/MinimapButtonFrame-vanilla.git) requires [TurtleSnacks](https://github.com/McPewPew/TurtleSnacks.git) to collect TurtleWoW's customized buttons.
   - It also adds a `no new mail` button to keep the frame from resizing.
   - This is useful if you want the frame to function as a locked toolbar.
-* [Cleanup](https://github.com/shirsig/Cleanup-vanilla.git) requires [SortBags](https://github.com/refaim/SortBags.git) and will need to configure which direction to sort to (Left or Right).
-  - It also needs to configure the sorting button and may take some tinkering when setting up.
+* [pfQuest](https://github.com/shagu/pfQuest.git) requires [pfQuest-turtle](https://github.com/shagu/pfQuest-turtle.git)
+  - This AddOn is essential when leveling and doing quests.
+  - It is highly recommended for new players.
+  - Contrary to [Atlas](https://github.com/Nonameby/Atlas.git), [AtlasLoot](https://github.com/Lexiebean/AtlasLoot.git) and [AtlasQuest](https://github.com/Nonameby/AtlasQuest.git), it is recommended to disable [pfQuest](https://github.com/shagu/pfQuest.git) at higher levels.
+  - This is by far the biggest AddOn in this collection.
 * [PowerAuras](https://github.com/laytya/PowerAuras-vanilla.git) is highly customizable and may be a bit overwhelming at first. 
-  - It is however, extremely useful to keep track of your most important buffs.
-  - The configuration will depend on your current class and available skills.
-* [ShaguWidget](https://github.com/shagu/ShaguWidget.git) is extremely useful to display stats like AddOn memory and ping, but it does require some configuration.
 * [WorldBuffSoundAlert](https://github.com/Bergador/WorldBuffSoundAlert.git), [RestBar](https://github.com/Steelbash/RestBar.git), [SpartanUI_SpinCam](https://github.com/Daribon/SpartanUI_SpinCam.git) and [MobsToLevel](https://github.com/idontbyte/MobsToLevel.git) are highly recommended at lower levels for new players.
   - Be sure to rest under survival tents!
   - Chill out and chat with other players until your rested is 100%.
