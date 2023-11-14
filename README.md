@@ -2,7 +2,7 @@
 1. [Usage](#usage)
 2. [AddOns](#addons)
 3. [Dependencies](#dependencies)
-4. [Special Thanks](#Special-thanks-to:)
+4. [Special Thanks](#special-thanks-to)
 
 A collection of essential TurtleWoW AddOns to enhance the player's experience.
 
