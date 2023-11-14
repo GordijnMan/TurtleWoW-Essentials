@@ -8,12 +8,14 @@ Cloning 33 AddOns all at once is much faster than manually going through the [cu
 However, it may still take some time. 
 This is especially true for larger AddOns like [pfQuest](https://github.com/shagu/pfQuest.git) that have entire multilingual databases.
 
+## Usage
+
 * You will need [Git](https://git-scm.com/) to use this project.
 * It utilizes all listed AddOns by pulling them as [submodules](./.gitmodules).
-* **DISCLAIMER:** Some AddOns will be pulled in nested directories, contain multiple plugins or have `-vanilla` directory postfixes.
-
-
-## Usage
+* Some AddOns will be pulled in nested directories, contain multiple plugins or have `-vanilla` directory postfixes.
+    - [MikScrollingBattleText](https://github.com/AtheneGenesis/Vanilla_MikScrollingBattleText.git), [PowerAuras](https://github.com/laytya/PowerAuras-vanilla.git), [RestBar](https://github.com/Steelbash/RestBar.git) and [Spy](https://github.com/laytya/Spy-vanilla.git) all have nested directories that will not work unless you extract the AddOn files.
+    - [aux-addon](https://github.com/shirsig/aux-addon-vanilla.git), [Cleanup](https://github.com/shirsig/Cleanup-vanilla.git) and [MinimapButtonFrame](https://github.com/laytya/MinimapButtonFrame-vanilla.git) have a `-vanilla` postfix in the directory name with must be removed in order to match it with the AddOn files.
+* [WorldBuffSoundAlert](https://github.com/Bergador/WorldBuffSoundAlert.git), [RestBar](https://github.com/Steelbash/RestBar.git), [SpartanUI_SpinCam](https://github.com/Daribon/SpartanUI_SpinCam.git) and [MobsToLevel](https://github.com/idontbyte/MobsToLevel.git) are highly recommended at lower levels for new players.
 
 Use:
 * `git clone https://github.com/GordijnMan/TurtleWoW-Essentials.git` to clone this repository without the AddOns.
@@ -121,9 +123,6 @@ They vastly enhance user experience and/or make the game far more enjoyable to p
   - By the time you are finished scanning, the auction house will already look different.
 * [Cleanup](https://github.com/shirsig/Cleanup-vanilla.git) requires [SortBags](https://github.com/refaim/SortBags.git) and will need to configure which direction to sort to (Left or Right).
   - It also needs to configure the sorting button and may take some tinkering when setting up.
-* [MikScrollingBattleText](https://github.com/AtheneGenesis/Vanilla_MikScrollingBattleText.git) is very customizable and will need some configuration.
-* [MikScrollingBattleText](https://github.com/AtheneGenesis/Vanilla_MikScrollingBattleText.git), [PowerAuras](https://github.com/laytya/PowerAuras-vanilla.git), [RestBar](https://github.com/Steelbash/RestBar.git) and [Spy](https://github.com/laytya/Spy-vanilla.git) all have nested directories that will not work unless you extract the AddOn files.
-  - Aux, Cleanup and MinimapButtonFrame also have a `-vanilla` postfix in the directory name with must be removed.
 * [MinimapButtonFrame](https://github.com/laytya/MinimapButtonFrame-vanilla.git) requires [TurtleSnacks](https://github.com/McPewPew/TurtleSnacks.git) to collect TurtleWoW's customized buttons.
   - It also adds a `no new mail` button to keep the frame from resizing.
   - This is useful if you want the frame to function as a locked toolbar.
@@ -132,11 +131,6 @@ They vastly enhance user experience and/or make the game far more enjoyable to p
   - It is highly recommended for new players.
   - Contrary to [Atlas](https://github.com/Nonameby/Atlas.git), [AtlasLoot](https://github.com/Lexiebean/AtlasLoot.git) and [AtlasQuest](https://github.com/Nonameby/AtlasQuest.git), it is recommended to disable [pfQuest](https://github.com/shagu/pfQuest.git) at higher levels.
   - This is by far the biggest AddOn in this collection.
-* [PowerAuras](https://github.com/laytya/PowerAuras-vanilla.git) is highly customizable and may be a bit overwhelming at first. 
-* [WorldBuffSoundAlert](https://github.com/Bergador/WorldBuffSoundAlert.git), [RestBar](https://github.com/Steelbash/RestBar.git), [SpartanUI_SpinCam](https://github.com/Daribon/SpartanUI_SpinCam.git) and [MobsToLevel](https://github.com/idontbyte/MobsToLevel.git) are highly recommended at lower levels for new players.
-  - Be sure to rest under survival tents!
-  - Chill out and chat with other players until your rested is 100%.
-  - When you hear the World Buff Alert, you are ready to level!
 
 ## Special thanks to:
 
