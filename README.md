@@ -1,4 +1,8 @@
 # TurtleWoW-Essentials
+1. [Usage](#usage)
+2. [AddOns](#addons)
+3. [Dependencies](#dependencies)
+4. [Special Thanks](#Special thanks to:)
 
 A collection of essential TurtleWoW AddOns to enhance the player's experience.
 
@@ -110,7 +114,7 @@ They vastly enhance user experience and/or make the game far more enjoyable to p
 23. [TWThreat](https://github.com/CosminPOP/TWThreat.git) - Useful threatmeter for dungeons.
 24. [WorldBuffSoundAlert](https://github.com/Bergador/WorldBuffSoundAlert.git) - Sounds an alert when a world buff is detected.
 
-### TOTAL: 33 (± 200MB)
+**TOTAL: 33 (± 200MB)**
 
 ## Dependencies
 
