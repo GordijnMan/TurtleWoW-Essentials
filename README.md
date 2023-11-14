@@ -12,6 +12,7 @@ This is especially true for larger AddOns like [pfQuest](https://github.com/shag
 * It utilizes all listed AddOns by pulling them as [submodules](./.gitmodules).
 * **DISCLAIMER:** Some AddOns will be pulled in nested directories, contain multiple plugins or have `-vanilla` directory postfixes.
 
+
 ## Usage
 
 Use:
@@ -51,7 +52,8 @@ Most of Shagu's AddOns (except ShaguWidget) work out of the box, without much ne
 
 ### Vanilla AddOns: 24
 
-Many of these AddOns vastly enhance user experience and makes the game far more enjoyable to play.
+Many of these vanilla AddOns were patched to work with TurtleWoW's customizations.
+They vastly enhance user experience and/or make the game far more enjoyable to play.
 
 1. [AddOnOrganizer](https://github.com/Monteo/AddOnOrganizer.git) - Essential AddOn for managing your other AddOns.
 2. [Atlas](https://github.com/Nonameby/Atlas.git) - Dungeon maps.
