@@ -56,7 +56,7 @@ Most of Shagu's AddOns (except ShaguWidget) work out of the box, without much ne
     - Highly customizable widget which can show detailed map location, AddOn memory, lag (ping), and much more.
     - If you don't like tinkering, you can use [my ShaguWidget configuration](./ShaguWidget.cfg).
 
-### Vanilla AddOns: 24
+### Vanilla AddOns: 25
 
 Many of these vanilla AddOns were patched to work with TurtleWoW's customizations.
 They vastly enhance user experience and/or make the game far more enjoyable to play.
