@@ -36,4 +36,4 @@
  - Vanilla_MikScrollingBattleText
  - WorldBuffSoundAlert
 
-### TOTAL: 34 (191M)
+### TOTAL: 34 (140K)

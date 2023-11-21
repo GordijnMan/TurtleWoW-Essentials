@@ -97,6 +97,3 @@
 [submodule "AddOns/WorldBuffSoundAlert"]
 	path = AddOns/WorldBuffSoundAlert
 	url = https://github.com/Bergador/WorldBuffSoundAlert.git
-[submodule "AddOns/SKMap"]
-	path = AddOns/SKMap
-	url = https://github.com/EinBaum/SKMap.git

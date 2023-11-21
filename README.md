@@ -56,7 +56,7 @@ Most of Shagu's AddOns (except ShaguWidget) work out of the box, without much ne
     - Highly customizable widget which can show detailed map location, AddOn memory, lag (ping), and much more.
     - If you don't like tinkering, you can use [my ShaguWidget configuration](./ShaguWidget.cfg).
 
-### Vanilla AddOns: 25
+### Vanilla AddOns: 24
 
 Many of these vanilla AddOns were patched to work with TurtleWoW's customizations.
 They vastly enhance user experience and/or make the game far more enjoyable to play.
@@ -96,27 +96,25 @@ They vastly enhance user experience and/or make the game far more enjoyable to p
     - Essential AddOn that provides a rested bar.
     - Extremely useful for new and leveling players.
     - Also comes inside a nested directory.
-18. [SKMap](https://github.com/EinBaum/SKMap.git)
-    - Addon which adds death and pvp information to the map.
-19. [SortBags](https://github.com/refaim/SortBags.git)
+18. [SortBags](https://github.com/refaim/SortBags.git)
     - Dependency for [Cleanup](https://github.com/shirsig/Cleanup-vanilla.git).
     - Allows to configure Left or Right sorting.
-20. [SpartanUI_SpinCam](https://github.com/Daribon/SpartanUI_SpinCam.git) - Makes the camera spin around you when you are detected as AFK.
-21. [Spy](https://github.com/laytya/Spy-vanilla.git)
+19. [SpartanUI_SpinCam](https://github.com/Daribon/SpartanUI_SpinCam.git) - Makes the camera spin around you when you are detected as AFK.
+20. [Spy](https://github.com/laytya/Spy-vanilla.git)
     - Essential AddOn for PvP enabled players.
     - Tracks PvP players with high kill counts of the opposing faction.
     - Feature to add players to kill lists and trigger sound alerts when enemy players are near.
     - Has yet another nested directory.
-22. [TargetFrameBuff](https://github.com/ZiiMs/TargetFrameBuff.git)
+21. [TargetFrameBuff](https://github.com/ZiiMs/TargetFrameBuff.git)
     - Extends visible (de)buffs on TurtleWoW unit frames to 16.
     - This AddOn will be displayed as 'out-of-date'.
-23. [TurtleSnacks](https://github.com/McPewPew/TurtleSnacks.git)
+22. [TurtleSnacks](https://github.com/McPewPew/TurtleSnacks.git)
     - Dependency for [MinimapButtonFrame](https://github.com/laytya/MinimapButtonFrame-vanilla.git).
     - Allows the collection of TurtleWoW minimap buttons.
-24. [TWThreat](https://github.com/CosminPOP/TWThreat.git) - Useful threatmeter for dungeons.
-25. [WorldBuffSoundAlert](https://github.com/Bergador/WorldBuffSoundAlert.git) - Sounds an alert when a world buff is detected.
+23. [TWThreat](https://github.com/CosminPOP/TWThreat.git) - Useful threatmeter for dungeons.
+24. [WorldBuffSoundAlert](https://github.com/Bergador/WorldBuffSoundAlert.git) - Sounds an alert when a world buff is detected.
 
-**TOTAL: 34 (± 200MB)**
+**TOTAL: 33 (± 200MB)**
 
 ## Dependencies
 
