@@ -96,25 +96,27 @@ They vastly enhance user experience and/or make the game far more enjoyable to p
     - Essential AddOn that provides a rested bar.
     - Extremely useful for new and leveling players.
     - Also comes inside a nested directory.
-18. [SortBags](https://github.com/refaim/SortBags.git)
+18. [SKMap](https://github.com/EinBaum/SKMap.git)
+    - Addon which adds death and pvp information to the map.
+19. [SortBags](https://github.com/refaim/SortBags.git)
     - Dependency for [Cleanup](https://github.com/shirsig/Cleanup-vanilla.git).
     - Allows to configure Left or Right sorting.
-19. [SpartanUI_SpinCam](https://github.com/Daribon/SpartanUI_SpinCam.git) - Makes the camera spin around you when you are detected as AFK.
-20. [Spy](https://github.com/laytya/Spy-vanilla.git)
+20. [SpartanUI_SpinCam](https://github.com/Daribon/SpartanUI_SpinCam.git) - Makes the camera spin around you when you are detected as AFK.
+21. [Spy](https://github.com/laytya/Spy-vanilla.git)
     - Essential AddOn for PvP enabled players.
     - Tracks PvP players with high kill counts of the opposing faction.
     - Feature to add players to kill lists and trigger sound alerts when enemy players are near.
     - Has yet another nested directory.
-21. [TargetFrameBuff](https://github.com/ZiiMs/TargetFrameBuff.git)
+22. [TargetFrameBuff](https://github.com/ZiiMs/TargetFrameBuff.git)
     - Extends visible (de)buffs on TurtleWoW unit frames to 16.
     - This AddOn will be displayed as 'out-of-date'.
-22. [TurtleSnacks](https://github.com/McPewPew/TurtleSnacks.git)
+23. [TurtleSnacks](https://github.com/McPewPew/TurtleSnacks.git)
     - Dependency for [MinimapButtonFrame](https://github.com/laytya/MinimapButtonFrame-vanilla.git).
     - Allows the collection of TurtleWoW minimap buttons.
-23. [TWThreat](https://github.com/CosminPOP/TWThreat.git) - Useful threatmeter for dungeons.
-24. [WorldBuffSoundAlert](https://github.com/Bergador/WorldBuffSoundAlert.git) - Sounds an alert when a world buff is detected.
+24. [TWThreat](https://github.com/CosminPOP/TWThreat.git) - Useful threatmeter for dungeons.
+25. [WorldBuffSoundAlert](https://github.com/Bergador/WorldBuffSoundAlert.git) - Sounds an alert when a world buff is detected.
 
-**TOTAL: 33 (± 200MB)**
+**TOTAL: 34 (± 200MB)**
 
 ## Dependencies
 

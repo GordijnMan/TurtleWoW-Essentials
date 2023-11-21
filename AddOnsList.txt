@@ -9,7 +9,7 @@
  - ShaguTweaks
  - ShaguWidget
 
-## Vanilla AddOns: 24
+## Vanilla AddOns: 25
  - AddOnOrganizer
  - Atlas
  - AtlasLoot
@@ -26,6 +26,7 @@
  - MobsToLevel
  - PowerAuras-vanilla
  - RestBar
+ - SKMap
  - SortBags
  - SpartanUI_SpinCam
  - Spy-vanilla
@@ -35,4 +36,4 @@
  - Vanilla_MikScrollingBattleText
  - WorldBuffSoundAlert
 
-### TOTAL: 33 (190M)
+### TOTAL: 34 (191M)
