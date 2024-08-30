@@ -18,7 +18,6 @@
  - aux_merchant_prices
  - BetterCharacterStats
  - Cleanup-vanilla
- - CRF
  - FlightMap
  - GryllsSwingTimer
  - Mail
