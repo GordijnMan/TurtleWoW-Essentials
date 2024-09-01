@@ -49,9 +49,6 @@
 [submodule "AddOns/Cleanup-vanilla"]
 	path = AddOns/Cleanup-vanilla
 	url = https://github.com/shirsig/Cleanup-vanilla.git
-[submodule "AddOns/CRF"]
-	path = AddOns/CRF
-	url = https://github.com/luskanek/CRF.git
 [submodule "AddOns/FlightMap"]
 	path = AddOns/FlightMap
 	url = https://github.com/GryllsAddons/FlightMap.git

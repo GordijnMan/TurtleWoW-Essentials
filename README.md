@@ -56,7 +56,7 @@ Most of Shagu's AddOns (except ShaguWidget) work out of the box, without much ne
     - Highly customizable widget which can show detailed map location, AddOn memory, lag (ping), and much more.
     - If you don't like tinkering, you can use [my ShaguWidget configuration](./ShaguWidget.cfg).
 
-### Vanilla AddOns: 24
+### Vanilla AddOns: 23
 
 Many of these vanilla AddOns were patched to work with TurtleWoW's customizations.
 They vastly enhance user experience and/or make the game far more enjoyable to play.
@@ -71,7 +71,6 @@ They vastly enhance user experience and/or make the game far more enjoyable to p
    - Gives the player an auction house overlay and makes it extremely easy to compare prices.
 7. [BetterCharacterStats](https://github.com/Lexiebean/BetterCharacterStats.git) - Essential AddOn which displays more detailed character stat information.
 8. [Cleanup](https://github.com/shirsig/Cleanup-vanilla.git) - Essential AddOn which sorts your default bags in a given direction.
-9. [CRF](https://github.com/luskanek/CRF.git) - Essential AddOn which displays a raid overlay with buffs and debuffs on raid and party members.
 10. [FlightMap](https://github.com/GryllsAddons/FlightMap.git)
     - Very useful AddOn which displays flight timers and locations.
     - Especially recommended for new players.
@@ -114,7 +113,7 @@ They vastly enhance user experience and/or make the game far more enjoyable to p
 23. [TWThreat](https://github.com/CosminPOP/TWThreat.git) - Useful threatmeter for dungeons.
 24. [WorldBuffSoundAlert](https://github.com/Bergador/WorldBuffSoundAlert.git) - Sounds an alert when a world buff is detected.
 
-**TOTAL: 33 (± 200MB)**
+**TOTAL: 32 (± 200MB)**
 
 ## Dependencies
 
