@@ -71,47 +71,47 @@ They vastly enhance user experience and/or make the game far more enjoyable to p
    - Gives the player an auction house overlay and makes it extremely easy to compare prices.
 7. [BetterCharacterStats](https://github.com/Lexiebean/BetterCharacterStats.git) - Essential AddOn which displays more detailed character stat information.
 8. [Cleanup](https://github.com/shirsig/Cleanup-vanilla.git) - Essential AddOn which sorts your default bags in a given direction.
-10. [FlightMap](https://github.com/GryllsAddons/FlightMap.git)
+9. [FlightMap](https://github.com/GryllsAddons/FlightMap.git)
     - Very useful AddOn which displays flight timers and locations.
     - Especially recommended for new players.
-11. [GryllsSwingTimer](https://github.com/GryllsAddons/GryllsSwingTimer.git)
+10. [GryllsSwingTimer](https://github.com/GryllsAddons/GryllsSwingTimer.git)
     - Minimalistic swing timer with sleek design and alternative themes.
     - Originally from [zUI](https://github.com/Ko0z/zUI.git).
-12. [Mail](https://github.com/EinBaum/Mail.git) - AddOn which lets you open all your mail at once or send multiple items very quickly.
-13. [MikScrollingBattleText](https://github.com/AtheneGenesis/Vanilla_MikScrollingBattleText.git)
+11. [Mail](https://github.com/EinBaum/Mail.git) - AddOn which lets you open all your mail at once or send multiple items very quickly.
+12. [MikScrollingBattleText](https://github.com/AtheneGenesis/Vanilla_MikScrollingBattleText.git)
     - Complete damage and status text replacement.
     - Highly customizable quality of life improvement.
     - Comes with `MikScrollingBattleTextOptions`, so the directory must be fixed for the AddOn to load.
-14. [MinimapButtonFrame](https://github.com/laytya/MinimapButtonFrame-vanilla.git)
+13. [MinimapButtonFrame](https://github.com/laytya/MinimapButtonFrame-vanilla.git)
     - Grabs all minimap buttons and collects them in inside a customizable frame.
     - Requires [TurtleSnacks](https://github.com/McPewPew/TurtleSnacks.git) to work for TurtleWoW.
     - Comes with `MinimapButtonFrameFu` plugin, so the directory must be fixed for the AddOn to load.
-15. [MobsToLevel](https://github.com/idontbyte/MobsToLevel.git) - Simple AddOn to calculate the next level based on the last killed target.
-16. [PowerAuras](https://github.com/laytya/PowerAuras-vanilla.git)
+14. [MobsToLevel](https://github.com/idontbyte/MobsToLevel.git) - Simple AddOn to calculate the next level based on the last killed target.
+15. [PowerAuras](https://github.com/laytya/PowerAuras-vanilla.git)
     - Useful AddOn which displays your most important buffs or cooldowns.
     - The configuration will depend on your current class and available skills.
     - Comes with a nested directory that must be copied into the AddOn directory.
-17. [RestBar](https://github.com/Steelbash/RestBar.git)
+16. [RestBar](https://github.com/Steelbash/RestBar.git)
     - Essential AddOn that provides a rested bar.
     - Extremely useful for new and leveling players.
     - Also comes inside a nested directory.
-18. [SortBags](https://github.com/refaim/SortBags.git)
+17. [SortBags](https://github.com/refaim/SortBags.git)
     - Dependency for [Cleanup](https://github.com/shirsig/Cleanup-vanilla.git).
     - Allows to configure Left or Right sorting.
-19. [SpartanUI_SpinCam](https://github.com/Daribon/SpartanUI_SpinCam.git) - Makes the camera spin around you when you are detected as AFK.
-20. [Spy](https://github.com/laytya/Spy-vanilla.git)
+18. [SpartanUI_SpinCam](https://github.com/Daribon/SpartanUI_SpinCam.git) - Makes the camera spin around you when you are detected as AFK.
+19. [Spy](https://github.com/laytya/Spy-vanilla.git)
     - Essential AddOn for PvP enabled players.
     - Tracks PvP players with high kill counts of the opposing faction.
     - Feature to add players to kill lists and trigger sound alerts when enemy players are near.
     - Has yet another nested directory.
-21. [TargetFrameBuff](https://github.com/ZiiMs/TargetFrameBuff.git)
+20. [TargetFrameBuff](https://github.com/ZiiMs/TargetFrameBuff.git)
     - Extends visible (de)buffs on TurtleWoW unit frames to 16.
     - This AddOn will be displayed as 'out-of-date'.
-22. [TurtleSnacks](https://github.com/McPewPew/TurtleSnacks.git)
+21. [TurtleSnacks](https://github.com/McPewPew/TurtleSnacks.git)
     - Dependency for [MinimapButtonFrame](https://github.com/laytya/MinimapButtonFrame-vanilla.git).
     - Allows the collection of TurtleWoW minimap buttons.
-23. [TWThreat](https://github.com/CosminPOP/TWThreat.git) - Useful threatmeter for dungeons.
-24. [WorldBuffSoundAlert](https://github.com/Bergador/WorldBuffSoundAlert.git) - Sounds an alert when a world buff is detected.
+22. [TWThreat](https://github.com/CosminPOP/TWThreat.git) - Useful threatmeter for dungeons.
+23. [WorldBuffSoundAlert](https://github.com/Bergador/WorldBuffSoundAlert.git) - Sounds an alert when a world buff is detected.
 
 **TOTAL: 32 (± 200MB)**
 
